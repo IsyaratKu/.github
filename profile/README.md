@@ -1,4 +1,9 @@
-## Hi there 👋
+# IsyaratKu
+
+<h1 align="center">
+  <br>
+    <img src="assets/IsyaratKu-logo.png" alt="IsyaratKu" width="200">
+</h1>
 
 <!--
 
